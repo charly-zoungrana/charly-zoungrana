@@ -39,6 +39,11 @@ Je suis un **Développeur Full-Stack** passionné et **étudiant en Génie Logic
   <img src="https://skillicons.dev/icons?i=python,scikitlearn" alt="Machine Learning" />
 </div>
 
+### 📱 Développement Mobile
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=androidstudio" alt="Développement Mobile" />
+</div>
+
 ### 🛠️ Outils & Plateformes
 <div align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,webstorm,docker,linux" alt="Outils" />
