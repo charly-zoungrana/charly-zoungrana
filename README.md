@@ -54,11 +54,6 @@ Je suis un **Développeur Full-Stack** passionné et **étudiant en Génie Logic
 ## 📊 Statistiques GitHub
 
 <div align="center">
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=charly-zoungrana&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Langages les plus utilisés" />
-</div>
-
-<div align="center">
   <img src="https://streak-stats.demolab.com/?user=charly-zoungrana&theme=tokyonight&hide_border=true&locale=fr" alt="Série GitHub" />
 </div>
 
