@@ -4,13 +4,11 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=500&color=2F81F7&center=true&vCenter=true&multiline=true&width=650&height=100&lines=Développeur+Full-Stack+%7C+Étudiant+en+Génie+Logiciel;Angular+%E2%80%A2+Spring+Boot+%E2%80%A2+Machine+Learning;Toujours+en+apprentissage%2C+toujours+en+développement" alt="Typing SVG" />
 </div>
 
----
 
 ## 🚀 À propos de moi
 
 Je suis un **Développeur Full-Stack** passionné et **étudiant en Génie Logiciel** à l'ENSET de Mohammedia. J'adore créer des applications web modernes et explorer le monde du Machine Learning. Actuellement concentré sur la création de solutions innovantes avec les technologies de pointe.
 
----
 
 ## 🛠️ Stack Technique
 
@@ -49,7 +47,6 @@ Je suis un **Développeur Full-Stack** passionné et **étudiant en Génie Logic
   <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,webstorm,docker,linux" alt="Outils" />
 </div>
 
----
 
 ## 📊 Statistiques GitHub
 
@@ -58,7 +55,6 @@ Je suis un **Développeur Full-Stack** passionné et **étudiant en Génie Logic
 </div>
 
 
----
 
 ## 📝 Faits Intéressants
 
